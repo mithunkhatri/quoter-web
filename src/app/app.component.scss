@@ -4,3 +4,25 @@ body {
     background-attachment: fixed;
     background-size: cover;
   }
+
+  .toolbar-1 {
+    display: block;
+    width: 100%;
+    text-align: end;
+    padding: 15px;
+    // border: 1px dashed #3b3636;
+    position: absolute;
+    height: 50px;
+    // top: 5px;
+    // left: 5px;
+    // background-color: #f8f8f8;
+  }
+
+  a {
+    text-decoration: none;
+    color: rgb(153, 155, 151);
+  }
+
+  a:hover {
+    color: hotpink;
+  }
